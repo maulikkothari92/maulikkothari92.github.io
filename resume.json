@@ -1,0 +1,146 @@
+{
+  "basics": {
+    "name": "Maulik Asit Kothari",
+    "label": "Programmer. Startup Enthusiast. Foodie.",
+    "picture": "http://i58.tinypic.com/k3qird.jpg",
+    "email": "maulikkothari92@gmail.com",
+    "phone": "(812) 325-1316",
+    "website": "http://maulikkothari.com",
+    "summary": "I am a Master's in Computer Science student at Indiana University, Bloomington. I dabble in Javascript and Python. ",
+    "location": {
+      "address": "2667 E. 7th Street, Apartment I",
+      "postalCode": "IN 47408",
+      "city": "Bloomington",
+      "countryCode": "US",
+      "region": "Indiana"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "@maulikkothari92",
+        "url": "https://twitter.com/maulikkothari92"
+      },
+      {
+        "network": "GitHub",
+        "username": "maulikkothari92",
+        "url": "https://github.com/maulikkothari92"
+      },
+      {
+        "network": "Facebook",
+        "username": "maulikkothari92",
+        "url": "https://www.facebook.com/maulikkothari92"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Zinc.io",
+      "position": "Sofware Developer Intern",
+      "website": "https://zinc.io/",
+      "startDate": "2014-05-20",
+      "endDate": "2014-08-20",
+      "summary": "Zinc is a startup backed by YCombinator, enabling the next generation of ecommerce with their standardized API for ordering from retailers.",
+      "highlights": [
+        "Developed an API which places live orders on amazon.com,amazon.uk and ssense.com",
+        "Built a file exchange parser which reads emails, parses and stores the attachments into a database, places live orders on Amazon, stores the response into the database objects, generates excel documents from the database and emails them to the customers.",
+        "Worked on various modules of priceyak.com and joelister.com. ",
+        "Generated revenue tracking scripts focusing on WoW growth. "
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "position": "Sofware Developer Intern",
+      "website": "http://www.tcs.com",
+      "startDate": "2011-05-10",
+      "endDate": "2011-08-10",
+      "highlights": [
+      "Analyzed the working of various stages of software development in Information Technology industry including product development, product testing and system integration.",
+      "Worked as a part of requirement gathering and application development team.",
+      "Created dynamic web pages that use HTML forms to get end-user input using Java servlets.",
+      "Designed a program to read data from a file using servlets and convert the data into a form required by the next phase of program."
+      ]
+    }
+  ],
+  "education": [
+  	{
+      "institution": "Indiana University, Bloomington",
+      "area": "Computer Science",
+      "studyType": "Master",
+      "startDate": "2013-08-05",
+      "endDate": "2015-05-15",
+      "courses": [
+      	"Advanced Database Concepts",
+      	"Elements of Artificial Intelligence",
+      	"Cloud Computing",
+      	"Hardware Systems Design",
+      	"Software Engineering",
+      	"Big Data Applications and Technologies",
+      	"Theory of Computation",
+        "Web Programming"      
+      ]
+    },
+    {
+      "institution": "University of Mumbai",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2009-08-20",
+      "endDate": "2013-06-10",
+      "courses": [
+        "Computer Programming",
+        "Data Structures and Files",
+        "Analysis of Algorithm and Design",
+        "Web Engineering",
+        "Object Oriented Software Engineering",
+        "Advanced Computer Networks",
+        "Distributed Systems",
+        "Soft Computing",
+        "Operating Systems"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Comcrypt : An Encryption Algorithm Based on Vernam Cipher",
+      "publisher": "International Journal Of Computer Science Technologies  -Volume 3, Issue 4",
+      "releaseDate": "November 2013"
+    },
+    {
+      "name": "Open Graph Infrastructure for Uniform Access To e-learning on Cloud.",
+      "publisher": "International Journal of Computer Applications  -Volume 58",
+      "releaseDate": "September 2013"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "Javascript",
+        "Node.JS",
+        "PHP",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Languages",
+      "keywords": [
+        "Python",
+        "Java",
+        "C++"
+      ]
+    },
+    {
+      "name": "Database",
+      "keywords": [
+        "MySQL",
+        "MongoDB"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ]
+}
